@@ -1,0 +1,31 @@
+{
+  "international":[{
+                "country" : "Algeria", 
+                "data" : {  
+                    "nbPorteurs" : 650,
+                    "nbSuspect" : 50,
+                    "nbConfirme" : 1117,
+                    "nbDeces" : 105,
+                    "nbRetablie" : 62
+                }
+            },{
+                "country" : "Germany", 
+                "data" : {  
+                    "nbPorteurs" : 650,
+                    "nbSuspect" : 50,
+                    "nbConfirme" : 1117,
+                    "nbDeces" : 105,
+                    "nbRetablie" : 62
+                }
+            },{
+                "country" : "United Kingdom", 
+                "data" : {  
+                    "nbPorteurs" : 650,
+                    "nbSuspect" : 50,
+                    "nbConfirme" : 1117,
+                    "nbDeces" : 105,
+                    "nbRetablie" : 62
+                }
+            }
+]
+}
