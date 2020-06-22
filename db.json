@@ -35,7 +35,7 @@
              "longitude": 3.050556,
              "latitude": 36.763056
       },
-      "rayon": 8
+      "rayon": 30
 }
 },{
 "id": "2",
@@ -44,7 +44,7 @@
              "longitude": 6.909208,
              "latitude": 36.876174
                   },
-      "rayon": 3
+      "rayon": 13
            }
 }]
 }
