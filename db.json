@@ -27,5 +27,24 @@
                     "nbRetablie" : 62
                 }
             }
-]
+],
+  zones:[{
+"id": "1",
+"detail": {
+      "location":{
+             "longitude": 3.050556,
+             "latitude": 36.763056
+      },
+      "rayon": 8
+}
+},{
+"id": "2",
+"detail": {
+      "location":{
+             "longitude": 6.909208,
+             "latitude": 36.876174
+                  },
+      "rayon": 3
+           }
+}]
 }
