@@ -28,7 +28,7 @@
                 }
             }
 ],
-  zones:[{
+  "zones":[{
 "id": "1",
 "detail": {
       "location":{
