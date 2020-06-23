@@ -46,5 +46,22 @@
                   },
       "rayon": 10
            }
-}]
+}],
+  "health1":[
+    {
+            "date": "2020-06-20",
+            "data": {
+                "rythme_cardiaque": 70,
+                "poids": 75,
+                "temperature": 37.0
+            }
+    }, {
+            "date": "2020-06-21",
+            "data": {
+                "rythme_cardiaque": 80,
+                "poids": 75,
+                "temperature": 38.1
+            }
+    }
+]
 }
