@@ -58,9 +58,32 @@
     }, {
             "date": "2020-06-21",
             "data": {
-                "rythme_cardiaque": 80,
+                "rythme_cardiaque": 77,
                 "poids": 75,
+                "temperature": 37.5
+            }
+    }, {
+            "date": "2020-06-22",
+            "data": {
+                "rythme_cardiaque": 85,
+                "poids": 74,
+                "temperature": 37.9
+            }
+    },
+     {
+            "date": "2020-06-23",
+            "data": {
+                "rythme_cardiaque": 87,
+                "poids": 73,
                 "temperature": 38.1
+            }
+    },
+     {
+            "date": "2020-06-24",
+            "data": {
+                "rythme_cardiaque": 88,
+                "poids": 72,
+                "temperature": 38.3
             }
     }
 ]
