@@ -86,5 +86,63 @@
                 "temperature": 38.3
             }
     }
-]
+],
+  "posts":[
+  {
+    "id": "2351d961de57452cade6",
+    "detail": {
+      "src": "https://www.healthline.com/health-news/coronavirus-live-updates",
+      "type": "WEBSITE",
+      "contenu": {
+        "cover": "https://post.healthline.com/wp-content/uploads/2020/06/Male_Washing_Windows_Mask_1200x628-facebook-1200x628.jpg",
+        "icon": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/hl-logo-logomark-circle-black.ico",
+        "description": "The new coronavirus disease outbreak first identified in China has become a pandemic. Stay up to date with the latest updates on COVID-19.",
+        "title": "Coronavirus Outbreak: Daily Updates",
+        "url": "https://www.healthline.com/health-news/coronavirus-live-updates",
+        "siteName": "Healthline"
+      },
+      "date": "2020-06-24T17:57:31.906Z"
+    }
+  },
+  {
+    "id": "2747a2f307da472a8f86",
+    "detail": {
+      "src": "https://www.healthline.com/health-news/lifelong-lung-damage-the-serious-covid-19-complication-that-can-hit-people-in-their-20s",
+      "type": "WEBSITE",
+      "contenu": {
+        "siteName": "Healthline",
+        "cover": "https://post.healthline.com/wp-content/uploads/2020/06/Covid_Nurse_1200x628-facebook-1200x628.jpg",
+        "icon": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/hl-logo-logomark-circle-black.ico",
+        "description": "Severe cases of COVID-19 can cause lasting damage to the lungs that may necessitate surgery or even organ transplants.",
+        "title": "Lifelong Lung Damage: A Serious COVID-19 Complication",
+        "url": "https://www.healthline.com/health-news/lifelong-lung-damage-the-serious-covid-19-complication-that-can-hit-people-in-their-20s"
+      },
+      "date": "2020-06-24T17:57:32.898Z"
+    }
+  },{
+    "id": "3d2b73d9e5f24774b29f",
+    "detail": {
+      "src": "https://www.youtube.com/watch?v=7qsjwpMx9FE",
+      "type": "YOUTUBE",
+      "contenu": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7qsjwpMx9FE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "date": "2020-06-19T21:20:42Z"
+    }
+  },{
+    "id": "5d35a5ef5a6b48a8a43e",
+    "detail": {
+      "contenu": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSANTE.NEWS%2Fposts%2F2595425494057012%2F&show_text=false&width=1000&appId=292150935083997&height=1000\" width=\"100%\" height=\"100%\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "date": "2020-06-24T17:56:01.822Z",
+      "src": "https://www.facebook.com/SANTE.NEWS/posts/2595425494057012/",
+      "type": "FACEBOOK"
+    }
+  },{
+    "id": "88067a852e9d4f548c64",
+    "detail": {
+      "src": "https://ar-ar.facebook.com/SANTE.NEWS/posts/2521527568113472/",
+      "type": "FACEBOOK",
+      "contenu": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Far-ar.facebook.com%2FSANTE.NEWS%2Fposts%2F2521527568113472%2F&show_text=false&width=1000&appId=292150935083997&height=1000\" width=\"100%\" height=\"100%\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "date": "2020-06-24T17:56:01.822Z"
+    }
+  }
+  ]
 }
