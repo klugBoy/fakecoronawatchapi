@@ -50,7 +50,7 @@
   "health1":[
     
      {
-            "date": "2020-06-24",
+            "date": "2020/06/24",
             "data": {
                 "rythme_cardiaque": 88,
                 "poids": 72,
@@ -58,21 +58,21 @@
             }
     },
      {
-            "date": "2020-06-23",
+            "date": "2020/06/23",
             "data": {
                 "rythme_cardiaque": 87,
                 "poids": 73,
                 "temperature": 38.1
             }
     }, {
-            "date": "2020-06-22",
+            "date": "2020/06/22",
             "data": {
                 "rythme_cardiaque": 85,
                 "poids": 74,
                 "temperature": 37.9
             }
     }, {
-            "date": "2020-06-21",
+            "date": "2020/06/21",
             "data": {
                 "rythme_cardiaque": 77,
                 "poids": 75,
@@ -80,7 +80,7 @@
             }
     },
     {
-            "date": "2020-06-20",
+            "date": "2020/06/20",
             "data": {
                 "rythme_cardiaque": 70,
                 "poids": 75,
